@@ -23,7 +23,7 @@ from utils.model_trainer import load_trained_models
 
 dash.register_page(__name__, path='/modelisation', name='Modélisation')
 
-# Vérifier si les modèles existent
+# Vérifier si les modèles existenta
 MODELS_EXIST = os.path.exists('models/lda_model.pkl')
 
 # Charger les modèles si disponibles

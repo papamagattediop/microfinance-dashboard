@@ -22,7 +22,7 @@ app.layout = dbc.Container([
             html.P("Analyse prédictive et segmentation des risques de crédit", 
                   className="main-subtitle")
         ], className="main-header fade-in")
-    ]),*
+    ]),
     
     # Navigation Premium
     html.Div([
