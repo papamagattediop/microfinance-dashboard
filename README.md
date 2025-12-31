@@ -11,6 +11,8 @@ Application Dash permettant de :
 - **Prédire** le risque de défaut avec deux modèles : LDA et QDA
 - **Décider** automatiquement de l'octroi ou du refus d'un crédit
 
+🌐 **[Voir l'application en ligne](https://microfinance-dashboard.onrender.com)**
+
 ---
 
 ## 🛠️ Technologies
