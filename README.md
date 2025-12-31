@@ -91,7 +91,7 @@ Interface responsive et moderne.
 
 ## 👨‍💻 Auteur
 
-**[Votre Nom]**  
+**[Papa Magatte DIOP]**  
 Licence 3 - Data Visualisation | 2024-2025
 
 ---
